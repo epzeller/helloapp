@@ -1,0 +1,4 @@
+helloapp
+========
+
+RoR training application
